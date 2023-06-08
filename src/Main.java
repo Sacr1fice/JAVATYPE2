@@ -6,7 +6,7 @@ public class Main {
 
         int bonus = 0;
         if (popolnenie > 1000) {
-                bonus = popolnenie / 100;
+            bonus = popolnenie / 100;
         }
 
         int itog = balance + popolnenie + bonus;
